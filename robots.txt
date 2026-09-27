@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://risingflexoprint2-bit.github.io/RisingFlexoPrint-web/sitemap.xml
