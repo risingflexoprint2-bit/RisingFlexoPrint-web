@@ -1,0 +1,1 @@
+const langBtn=document.getElementById('lang');let lang='uz';function applyLang(){document.documentElement.lang=lang;document.querySelectorAll('[data-uz]').forEach(el=>{el.innerHTML=el.dataset[lang]});langBtn.textContent=lang==='uz'?'RU':'UZ'}langBtn.addEventListener('click',()=>{lang=lang==='uz'?'ru':'uz';applyLang()});applyLang();
