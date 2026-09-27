@@ -5,4 +5,8 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url><loc>https://risingflexoprint2-bit.github.io/RisingFlexoPrint-web/etiketka-ishlab-chiqarish.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://risingflexoprint2-bit.github.io/RisingFlexoPrint-web/samokleyka-etiketka.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://risingflexoprint2-bit.github.io/RisingFlexoPrint-web/termousadka.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://risingflexoprint2-bit.github.io/RisingFlexoPrint-web/qadoqlash.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
